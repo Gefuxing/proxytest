@@ -1,0 +1,13 @@
+package com.gefuxing.proxytest;
+
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+
+@SpringBootApplication
+public class ProxytestApplication {
+
+    public static void main(String[] args) {
+        SpringApplication.run(ProxytestApplication.class, args);
+    }
+
+}
